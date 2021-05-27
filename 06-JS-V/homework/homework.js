@@ -92,6 +92,8 @@ function agregarMetodo() {
     return `${this.nombre}, ${this.edad} años`;
   }
 }
+
+//nueva línea para crear repo con name new JSV
   
 
 // No modificar nada debajo de esta línea
