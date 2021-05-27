@@ -1,0 +1,38 @@
+h1, h3 {
+    color: rgb(66, 6, 6);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h4 {
+    background-color: rgb(223, 188, 188);
+    width: 1200px;
+    padding: 50px;
+    border: 5px solid rgb(233, 170, 170);
+}
+
+.parrafo {
+    margin-left: 30px;
+}
+
+.divClass {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(28, 28, 49);
+}
+
+img {
+    width: 600px;
+}
+
+#thirDiv {
+    background-color: brown;
+    height: 600px;
+    width: 1200px;
+    padding: 50px;
+    border: 5px solid rgb(233, 170, 170);
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
