@@ -66,6 +66,8 @@ function filter(array) {
   return arrayA;
 }
 
+//nueva línea para crear repo JS VI
+
 // No modificar nada debajo de esta línea
 // --------------------------------
 
